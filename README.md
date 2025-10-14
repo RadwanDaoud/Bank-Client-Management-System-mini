@@ -25,7 +25,7 @@ A simple banking management system built with **C++** that allows you to manage 
    شغّل البرنامج واتبع القائمة الظاهرة على الشاشة.
 
 ---
-###⚠️ Note | ملاحظة
+### ⚠️ Note | ملاحظة
 
 This program was created for learning and practice only.
 It is not a real-world project and should not be used for actual business or data management.
