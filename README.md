@@ -19,8 +19,8 @@ A simple banking management system built with **C++** that allows you to manage 
 
 1. Compile the program using any C++ compiler.
    قم بترجمة البرنامج باستخدام أي مترجم ++C (مثل Code::Blocks أو Visual Studio).
-2. Make sure the file `MyClients.txt` exists in the same folder.
-   تأكد أن الملف `MyClients.txt` موجود في نفس مجلد البرنامج.
+2. Make sure the file `MyClients.txt` exists in the same folder , or add some client by yourslef using featur add.
+   تأكد أن الملف `MyClients.txt` موجود في نفس مجلد البرنامج , او اضف بعض العملاء بنفسك باستخدام ميزة اضافة العملاء.
 3. Run the program and follow the on-screen menu.
    شغّل البرنامج واتبع القائمة الظاهرة على الشاشة.
 
